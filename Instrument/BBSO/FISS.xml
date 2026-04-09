@@ -22,6 +22,10 @@
         <Name>FISS Home Page</Name>
         <URL>https://www.bbso.njit.edu/fiss.html</URL>
       </InformationURL>
+      <InformationURL>
+        <Name>FISS Home Page, Korea</Name>
+        <URL>http://fiss.snu.ac.kr/</URL>
+      </InformationURL>
     </ResourceHeader>
     <InstrumentType>ImagingSpectrometer</InstrumentType>
     <InvestigationName>Fast Imaging Solar Spectrograph (FISS) at the Big Bear Solar Observatory</InvestigationName>
